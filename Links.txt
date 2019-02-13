@@ -3,3 +3,5 @@ https://habr.com/ru/post/350554/ - Lightning network in depth, part 1: payment c
 https://habr.com/ru/post/350790/ - Lightning Network In Depth, part 2: HTLC And Payment Routing
 
 https://bitnovosti.com/2016/06/22/understanding-the-lightning-network/  - Lightning Network: все технические детали
+
+https://github.com/rustyrussell/ccan/blob/master/ccan/crypto/shachain/design.txt - Lightning network key storage
